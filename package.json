@@ -1,0 +1,23 @@
+{
+  "name": "productinventorymanagementrepl",
+  "version": "1.0.0",
+  "description": "A command line REPL to manage product inventory written in NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaylthomas777/productInventoryManagementREPL.git"
+  },
+  "author": "Kayl Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaylthomas777/productInventoryManagementREPL/issues"
+  },
+  "homepage": "https://github.com/Kaylthomas777/productInventoryManagementREPL#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
